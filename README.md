@@ -1,14 +1,12 @@
-# Run and deploy your AI Studio app
+# Character System Integration Components
 
-This contains everything you need to run your app locally.
+This branch contains implementation examples for integrating streaming character interactions with state management and contextual awareness. These components help solve common issues with character consistency and create a more cohesive user experience.
 
-## Run Locally
+## Key Components
 
-**Prerequisites:**  Node.js
+1. State Management Service 
+2. Character Persistence System
+3. Contextual Response Integration
+4. Dynamic Personality Framework
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+These implementations provide modular, reusable code that addresses several common challenges in interactive character systems.
